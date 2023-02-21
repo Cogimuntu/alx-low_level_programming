@@ -1,1 +1,1 @@
-Learning about Loops; nested loops
+my functions and loops readme
