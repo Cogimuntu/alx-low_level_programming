@@ -1,1 +1,1 @@
-learning about manual debugging
+my new debugging readme
