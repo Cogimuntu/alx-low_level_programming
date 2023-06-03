@@ -4,7 +4,7 @@
  * print_alphabet_x10 - prints 10times the alphabet followed by anew line
  *
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	char lett;
 	int a;
