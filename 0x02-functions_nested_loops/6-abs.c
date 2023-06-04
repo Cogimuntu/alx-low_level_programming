@@ -7,13 +7,13 @@
 
 int _abs(int g)
 {
-	if (g > 0)
+	if (g >= 0)
 	{
-		return (1);
+		return (g);
 	}
 	else
 	{
 		g = -g;
-		return (0);
+		return (g);
 	}
 }
