@@ -9,11 +9,11 @@ int _abs(int g)
 {
 	if (g > 0)
 	{
-		return ('g');
+		return (1);
 	}
 	else
 	{
 		g = -g;
-		return ('g');
+		return (0);
 	}
 }
